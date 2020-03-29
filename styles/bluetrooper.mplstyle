@@ -39,4 +39,6 @@ ytick.direction : in
 figure.facecolor : (0.113,0.113,0.239)
 figure.figsize  : 7, 5
 figure.dpi : 150
-savefig.dpi : 200
+savefig.dpi : 100
+savefig.pad_inches : 2
+savefig.bbox_inches : 'tight'
