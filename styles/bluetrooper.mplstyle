@@ -1,0 +1,47 @@
+text.color : 'white'
+
+# AXES
+axes.titlesize : 35
+axes.labelsize : 27
+axes.edgecolor : 'white'
+axes.labelcolor : 'white'
+axes.linewidth : 1
+axes.spines.top : False
+axes.spines.right : False
+axes.spines.bottom : True
+axes.spines.left : True
+
+# GRID
+axes.grid : True
+grid.alpha : 0.7
+grid.linestyle : --
+grid.linewidth : 0.6
+
+# LINES
+axes.prop_cycle : cycler('color', [
+    "E6D3AD",
+    "967B4F",
+    "46493D",
+    "839DA5",
+    "9FADAD",
+    "2B4144",
+    "986E37"]) #hex colours
+
+lines.linewidth : 1.5
+lines.markeredgewidth : 0.0
+
+# SCATTER PLOT
+scatter.marker : .
+
+# TICKS
+xtick.labelsize : 13
+xtick.color : (0.2,0.2,0.2)
+xtick.direction : in
+ytick.labelsize : 13
+ytick.color : (0.2,0.2,0.2)
+ytick.direction : in
+
+# FIGURE OUTPUT 
+figure.figsize  : 7, 5
+figure.dpi : 150
+savefig.dpi : 200
