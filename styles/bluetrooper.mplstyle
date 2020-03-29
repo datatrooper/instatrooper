@@ -2,7 +2,6 @@ text.color : (1,1,1)
 
 # AXES
 axes.titlesize : 35
-axes.title.pad : 20
 axes.labelsize : 27
 axes.edgecolor : (1,1,1)
 axes.labelcolor : (1,1,1)
