@@ -1,10 +1,10 @@
-text.color : 'white'
+text.color : (1,1,1)
 
 # AXES
 axes.titlesize : 35
 axes.labelsize : 27
-axes.edgecolor : 'white'
-axes.labelcolor : 'white'
+axes.edgecolor : (1,1,1)
+axes.labelcolor : (1,1,1)
 axes.linewidth : 1
 axes.spines.top : False
 axes.spines.right : False
