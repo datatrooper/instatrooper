@@ -10,7 +10,7 @@ axes.spines.top : False
 axes.spines.right : False
 axes.spines.bottom : True
 axes.spines.left : True
-axes.facecolor : "1D1D3D"
+axes.facecolor : "1d1d3d"
 
 # GRID
 axes.grid : True
@@ -36,7 +36,7 @@ ytick.color : (0.2,0.2,0.2)
 ytick.direction : in
 
 # FIGURE OUTPUT
-figure.facecolor : "1D1D3D"
+figure.facecolor : "1d1d3d"
 figure.figsize  : 7, 5
 figure.dpi : 150
 savefig.dpi : 200
