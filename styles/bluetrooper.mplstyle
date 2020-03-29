@@ -28,11 +28,11 @@ lines.markeredgewidth : 0.0
 scatter.marker : .
 
 # TICKS
-xtick.labelsize : 13
-xtick.color : (0.2,0.2,0.2)
+xtick.labelsize : 16
+xtick.color : (1,1,1)
 xtick.direction : in
-ytick.labelsize : 13
-ytick.color : (0.2,0.2,0.2)
+ytick.labelsize : 16
+ytick.color : (1,1,1)
 ytick.direction : in
 
 # FIGURE OUTPUT
