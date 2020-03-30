@@ -1,0 +1,44 @@
+text.color : (0.113,0.113,0.239)
+
+# AXES
+axes.titlesize : 35
+axes.titlepad : 20
+axes.labelsize : 27
+axes.edgecolor : (0.113,0.113,0.239)
+axes.labelcolor : (0.113,0.113,0.239)
+axes.linewidth : 1
+axes.spines.top : False
+axes.spines.right : False
+axes.spines.bottom : True
+axes.spines.left : True
+axes.facecolor : (1,1,1)
+
+# GRID
+axes.grid : True
+grid.alpha : 0.7
+grid.linestyle : --
+grid.linewidth : 0.6
+
+# LINES
+axes.prop_cycle : cycler('color', ["e6d3ad","967b4f","46493d","839da5","9fadad","2b4144","986e37"]) #hex colours
+
+lines.linewidth : 1.5
+lines.markeredgewidth : 0.0
+
+# SCATTER PLOT
+scatter.marker : .
+
+# TICKS
+xtick.labelsize : 16
+xtick.color : (0.113,0.113,0.239)
+xtick.direction : in
+ytick.labelsize : 16
+ytick.color : (0.113,0.113,0.239)
+ytick.direction : in
+
+# FIGURE OUTPUT
+figure.facecolor : (1,1,1)
+figure.figsize  : 10, 10
+figure.dpi : 150
+savefig.dpi : 100
+savefig.pad_inches : 2
