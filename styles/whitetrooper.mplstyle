@@ -20,7 +20,7 @@ grid.linestyle : --
 grid.linewidth : 0.6
 
 # LINES
-axes.prop_cycle : cycler('color', ["e6d3ad","967b4f","46493d","839da5","9fadad","2b4144","986e37"]) #hex colours
+axes.prop_cycle : cycler('color', ["1c1c3c","967b4f","46493d","839da5","9fadad","2b4144","986e37"]) #hex colours
 
 lines.linewidth : 1.5
 lines.markeredgewidth : 0.0
