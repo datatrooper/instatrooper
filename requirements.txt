@@ -6,3 +6,6 @@ plotly==4.3.0
 wordcloud==1.6.0
 stop-words==2018.7.23
 textblob==0.15.3
+bokeh==2.0.1
+holoviews==1.13.2
+bs4==0.0.1
