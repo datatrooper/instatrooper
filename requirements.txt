@@ -5,3 +5,4 @@ jupyter==1.0.0
 plotly==4.3.0
 wordcloud==1.6.0
 stop-words==2018.7.23
+textblob==0.15.3
