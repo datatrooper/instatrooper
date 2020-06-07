@@ -1,4 +1,4 @@
-text.color :  (66, 70, 48)
+text.color :  (0.25882353, 0.2745098 , 0.18823529)
 
 # AXES
 axes.titlesize : 35
