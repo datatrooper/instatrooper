@@ -12,3 +12,4 @@ bs4==0.0.1
 sodapy==2.1.0
 country-list==0.1.5
 unidecode==1.1.1
+spanish-sentiment-analysis==1.0.0
